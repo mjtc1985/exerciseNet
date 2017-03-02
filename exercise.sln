@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-PortalWeb", "..\..\..\..\..\..\Trabajo\Proyectos\Innocv\Net\exercise\exercise\Exercise-PortalWeb.csproj", "{0C64E464-685B-40E1-A591-E9F426E29975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-PortalWeb", "Exercise-PortalWeb\Exercise-PortalWeb.csproj", "{0C64E464-685B-40E1-A591-E9F426E29975}"
 	ProjectSection(ProjectDependencies) = postProject
 		{CF75BA9B-B461-4437-9115-7A5D409DC78B} = {CF75BA9B-B461-4437-9115-7A5D409DC78B}
 	EndProjectSection
